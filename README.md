@@ -85,7 +85,7 @@ Rookie ADP can shift significantly before and after the NFL Draft, and websites 
 
 ## 👨‍💻 About Me
 
-I’m James Hamer—an experienced retail leader pivoting into data analytics. I recently completed the IBM Data Analyst Professional Certificate and am passionate about combining analytics with real-world domains like fantasy sports.
+I’m James Hamer, an experienced retail leader pivoting into data analytics. I recently completed the IBM Data Analyst Professional Certificate and am passionate about combining analytics with real-world domains like fantasy sports.
 
 📬 [Email](mailto:jhamer85@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/james-hamer-932868171/)  
