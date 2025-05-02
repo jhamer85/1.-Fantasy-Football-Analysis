@@ -17,7 +17,9 @@ Design a practical, real-time budget tracker and team builder for in-person auct
 
 🛠️ **Tools Used:**  
 - Microsoft Excel  
-- VLOOKUP, conditional formatting, dynamic formulas
+- VLOOKUP
+- conditional formatting
+- dynamic formulas
 
 🚧 **Status:**  
 Complete and available for review. Updated tweaks as I learn new code and think of improvements.
@@ -40,7 +42,8 @@ Explore scoring trends for Tight Ends in the 2024 season using a box plot to ide
 
 🛠️ **Tools Used:**  
 - Python  
-- Pandas, Matplotlib, Jupyter Notebook
+- Pandas
+- Matplotlib
 
 🚧 **Status:**  
 Complete and available for review. Potential future expansion to WR and RB positions.
@@ -58,17 +61,19 @@ Complete and available for review. Potential future expansion to WR and RB posit
 -Track and visualize how rookie players' Average Draft Position (ADP) changes over time.
 
 🧠 **What I Did:**
--Collected ADP data from multiple time points via DynastyDataLab.com
--Used Python to merge the data tables into a unified dataset by player
--Imported the dataset into Excel to build trend visualizations
--Created sparklines to show each player's ADP trajectory over time
--Applied formatting to invert the Y-axis appearance (so lower ADP values appear higher on the graph)
--Color-coded sparklines to reflect whether a player's ADP was trending up or down
+- Collected ADP data from multiple time points via DynastyDataLab.com
+- Used Python to merge the data tables into a unified dataset by player
+- Imported the dataset into Excel to build trend visualizations
+- Created sparklines to show each player's ADP trajectory over time
+- Applied formatting to invert the Y-axis appearance (so lower ADP values appear higher on the graph)
+- Color-coded sparklines to reflect whether a player's ADP was trending up or down
 
 🛠️ **Tools Used:**
--Python
--Pandas
--Microsoft Excel
+- Python
+- Pandas
+- Microsoft Excel
+- sparklines
+- conditional formatting
 
 🚧 Status:
 Complete and available for review.
