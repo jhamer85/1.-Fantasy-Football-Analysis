@@ -83,6 +83,38 @@ Rookie ADP can shift significantly before and after the NFL Draft, and websites 
 
 ---
 
+## 📊 Project 4: Top 12 WR Scoring Consistency Analysis (Python & PDF Report)
+
+🎯 **Goal:**
+Analyze the year-over-year consistency of top-performing Wide Receivers in fantasy football, quantifying how often elite players maintain their status.
+
+🧠 **What I Did:**
+- Collected historical wide receiver fantasy scoring data from fantasypros.com (2016-2024 seasons).
+- Utilized Python (Pandas) for data cleaning, structuring, and in-depth analysis.
+- Calculated both total fantasy points (FPTS) and fantasy points per game (FPPG) for each player.
+- Implemented a filter requiring a minimum of 10 games played for FPPG analysis to ensure per-game consistency.
+- Identified the top 12 WRs for each season based on both FPTS and FPPG.
+- Generated grouped bar charts using Matplotlib to visually compare individual player performance and rank year-over-year (e.g., 2016 vs. 2017, 2017 vs. 2018, etc.).
+- Calculated and summarized retention rates for players initially in the top 12 who remained in the top 12, top 24, and top 36 in the subsequent season.
+- Presented the full analysis, charts, and conclusions in a comprehensive PDF report.
+
+🛠️ **Tools Used:**
+- Python
+- Pandas
+- Matplotlib
+- Jupyter Notebooks
+- PDF Generation in PowerPoint
+
+🚧 **Status:**
+Complete and available for review in the `Top 12 WR Scoring.pdf` file.
+
+📎 **Conclusions:**
+- **Top-Tier Volatility vs. Overall Relevance:** While a significant portion of top 12 WRs repeat their elite performance (ranging from ~47% by total FPTS to ~58% by FPPG), a much higher percentage (74-83%) consistently remain in the top 36, indicating a strong floor for these players in fantasy terms.
+- **FPPG as a Stronger Indicator of Consistency:** Analysis based on FPPG (with a minimum of 10 games played) reveals a higher retention rate for top 12 WRs (58.33% repeating top 12) compared to total FPTS (46.88%). This suggests that players who are highly efficient on a per-game basis and maintain reasonable health are more likely to sustain their elite production.
+- **Dynasty and Redraft Implications:** Wide receivers, especially those demonstrating strong per-game efficiency, often represent a relatively safe investment in both dynasty and redraft fantasy football formats due to their high probability of maintaining at least strong flex/starter-level relevance.
+
+---
+
 ## 👨‍💻 About Me
 
 I’m James Hamer, an experienced retail leader pivoting into data analytics. I recently completed the IBM Data Analyst Professional Certificate and am passionate about combining analytics with real-world domains like fantasy sports.
